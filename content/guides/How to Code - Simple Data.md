@@ -12,7 +12,7 @@ HtCSD is the first part of a 2-part course along with How to Code - Complex Data
 
  This course does not require you to
 have any prior programming experience but it is recommended that you have worked through the Intro CS
-section of the syllabus. HtCSD takes around 7-8 weeks to
+section of the syllabus. HtCSD takes around 7 weeks to
 complete.
 
 ## Getting Started
