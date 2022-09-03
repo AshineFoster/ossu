@@ -5,7 +5,7 @@
 
 An experimental unofficial static website for the [OSSU](https://github.com/ossu).
 
-<!-- The project title should be self explanotory and try not to make it a mouthful. (Although exceptions exist- **awesome-readme-writing-guide-for-open-source-projects** - would have been a cool name)
+<!-- The project title should be self explanotory and try not to make it a mouthful. (Although exceptions exist- **awesome-readme-writing-guide-for-open-source-projects** - would have been a cool name) -->
 
 
 # Table of contents
