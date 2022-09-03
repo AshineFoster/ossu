@@ -1,6 +1,6 @@
 mainSections = ["posts"] # use it for blog page section
 # use the setting below to set multiple docs directories.
-docSections = ["docs", "guides"]
+docSections = ["docs", "guides", "ossu"]
 
 uniqueHomePage = true # change to false to add sidebar to homepage
 
