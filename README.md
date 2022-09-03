@@ -53,15 +53,21 @@ To use this project:
 
 2. clone the repo using the command:
 
-```git clone https://github.com/AshineFoster/ossu.git```
+```
+git clone https://github.com/AshineFoster/ossu.git
+```
 
 3. change present working directory:
 
-```cd ossu```
+```
+cd ossu
+```
 
 4. clone submodules:
 
-```git submodule update --init --recursive```
+```
+git submodule update --init --recursive
+```
 
 # Usage
 [(Back to top)](#table-of-contents)
@@ -70,7 +76,9 @@ To use this project:
 
 In order to view the built website, run the following command from the project root folder:
 
-```hugo server```
+```
+hugo server
+```
 
 This will show you a link that you can open to view the website.
 
