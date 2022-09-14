@@ -2,6 +2,10 @@
 
 An experimental unofficial static website for the [OSSU](https://github.com/ossu).
 
+![Home Page](./static/images/web-screenshots/home.png)
+
+![Course Page Table](./static/images/web-screenshots/courses.png)
+
 # Table of contents
 
 - [Installation](#installation)
