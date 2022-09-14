@@ -11,6 +11,18 @@ components. The course is split into 2 parts: part 1 (this course) focuses
 on the physical parts of the computer and part 2 is concerned with the software
 implemented on top of the hardware. 
 
+## Prerequisites
+
+There aren't clearly defined prerequisites for this course, but you actually need to know a lot of little bits and pieces of things (that people struggled with).
+
+First of all, you will be writing an assembler, which is a program that takes one language as input and produces code in another language as output. And you need to write this program in a third language (like Python or Java). So you need to already have very solid knowledge of one programming language, how to do file read/write and how to process strings in that language. You'll also need to know some data structures (like a dictionary in Python) because the assembler will need to look up some values in a symbol table.
+
+Second, you need solid logic and Boolean algebra skills, and you need to know how to work with binary numbers and bits. Otherwise you'll have a lot of trouble translating the project instructions to chips, and the chips you implement will be extremely difficult to debug. I've seen this happen to a few people.
+
+Third, you'll be using a hardware description language, which looks like a programming language but doesn't act like a programming language. So you'll need a different way of thinking there. I've seen many people make mistakes because they treat it like a programming language.
+
+There are probably some other "hidden" prerequisites that might not be included above.
+
 ## Assignments
 
 {{< tip >}}
