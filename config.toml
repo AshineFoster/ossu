@@ -9,5 +9,7 @@ enableGitInfo = true
 
 disableKinds = ["taxonomy", "taxonomyTerm"]
 
+ignoreFiles = ["coursepages/\\.*"]
+
 [outputs]
   home = ["HTML", "RSS","JSON"]
